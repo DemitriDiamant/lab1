@@ -1,0 +1,18 @@
+
+AI Tool Used:
+ChatGPT 
+
+Prompts Used:
+1. Help me fix my PHP form submission.
+2. Help me understand if I created any links or folders wrong.
+3. Compare my code with the professor's instructions.
+
+How AI Helped:
+ChatGPT helped me understand the HTML file structure,
+Bootstrap styling, and PHP form submission. It also
+helped identify issues with file paths and navigation.
+
+Suggestion Tested:
+Describe one change you actually tested and what happened.
+One change I tested was submitting my request form. It would take me back 
+to the home page and not the request sent page.
